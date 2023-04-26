@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 <div align="center">
 
   <h3><b>HELLO MICROVERSE PROJECT</b></h3>
