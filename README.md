@@ -1,5 +1,4 @@
 # Hello-Microverse
-# Hello-Microverse
 <a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
