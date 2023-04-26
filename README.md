@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HELLO WORLD] <a name="about-project"></a>
+# 📖 [HELLO MICROVERSE] <a name="about-project"></a>
 
 > A "Hello World" HTML-5 repository built during the portal learning module.
 
