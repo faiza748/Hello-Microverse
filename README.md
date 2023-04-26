@@ -2,9 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>HELLO MICROVERSE PROJECT</b></h3>
 
 </div>
@@ -96,7 +93,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-- Clone this repository to your desired folder git@github.com:faiza748/Hello-Microverse.git
+- Clone this repository to your desired folder https://github.com/faiza748/Hello-Microverse.git
 - Run the command npm install to install necessary dependencies contained in the package.json file
 
 ### Install
@@ -174,6 +171,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/faiza748/Hello-Microverse/blob/htmlcss-branch/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
